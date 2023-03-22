@@ -24,6 +24,9 @@ In this analysis I was tasked with analyzing Amazon reviews written by members w
 
 ![Screenshot 2023-03-22 100742](https://user-images.githubusercontent.com/45715246/226930190-57dba825-bb98-41bb-868d-8ee982ea98db.png)
 
+## Summary
+
+
 
 
 
