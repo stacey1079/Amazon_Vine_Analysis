@@ -19,10 +19,12 @@ In this analysis I was tasked with analyzing Amazon reviews written by members w
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 ### 5 star reviews screenshot:
+![Screenshot 2023-03-22 101323](https://user-images.githubusercontent.com/45715246/226931639-5511aedc-17cb-4bd3-bd72-a67b355a115d.png)
+
+
 ![Screenshot 2023-03-22 100742](https://user-images.githubusercontent.com/45715246/226930190-57dba825-bb98-41bb-868d-8ee982ea98db.png)
 
 
-![Screenshot 2023-03-22 101323](https://user-images.githubusercontent.com/45715246/226931639-5511aedc-17cb-4bd3-bd72-a67b355a115d.png)
 
 
 
