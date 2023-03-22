@@ -15,11 +15,6 @@ In this analysis I was tasked with analyzing Amazon reviews written by members w
 
 
 
-### Total paid/unpaid vine reviews screenshot:
-![Screenshot 2023-03-22 100742](https://user-images.githubusercontent.com/45715246/226930190-57dba825-bb98-41bb-868d-8ee982ea98db.png)
-
-
-
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
