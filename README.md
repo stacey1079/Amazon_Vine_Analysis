@@ -23,7 +23,7 @@ In this analysis I was tasked with analyzing Amazon reviews written by members w
 
 
 ![Screenshot 2023-03-22 101323](https://user-images.githubusercontent.com/45715246/226931639-5511aedc-17cb-4bd3-bd72-a67b355a115d.png)
-![Screenshot 2023-03-22 100633](https://user-images.githubusercontent.com/45715246/226929709-2ee5b546-bcfc-4be6-b504-bc84f607d450.png)
+
 
 
 
