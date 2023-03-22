@@ -26,7 +26,10 @@ In this analysis I was tasked with analyzing Amazon reviews written by members w
 
 ## Summary
 
+In my opinion, I do not think the paid Vine members reviews are biased.  There were a total of 594,295 5 star rated reviews, and of those only 221 of them were paid Vine members.  That is only .04% so that means 99.96% of the 5 star reviews were made by non-Vine paid members.  Based on these results, I think people are willing to give 5 star reviews based on whether or not they like the product.  Not whether or not they are a paid Vine members. 
 
+
+In addition to this analysis, I would be interested to go the other direction and do an analysis determining how many paid Vine members gave a 1 star review.  I think by doing that analysis, it would help to determine if the Vine reviews were biased or not.  I believe this would help determine the level of bias because it would show if members were or were not feeling pressure to give a great review.
 
 
 
