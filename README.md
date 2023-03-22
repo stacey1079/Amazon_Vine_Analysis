@@ -7,7 +7,8 @@ In this analysis I was tasked with analyzing Amazon reviews written by members w
  There were total of 594,295 Vine reviews.  Of those Vine reviews, 221 were unpaid and 594,074 were paid Vine reviews.
 
 ### Total vine reviews screenshot:
-![Screenshot 2023-03-22 101323](https://user-images.githubusercontent.com/45715246/226931639-5511aedc-17cb-4bd3-bd72-a67b355a115d.png)
+![Screenshot 2023-03-22 101922](https://user-images.githubusercontent.com/45715246/226933424-1cf6bf6f-1975-4ee2-8905-fca01f7d8191.png)
+
 
 
 ### Total paid/unpaid vine reviews screenshot:
@@ -19,6 +20,7 @@ In this analysis I was tasked with analyzing Amazon reviews written by members w
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
 ### 5 star reviews screenshot:
+![Screenshot 2023-03-22 101323](https://user-images.githubusercontent.com/45715246/226931639-5511aedc-17cb-4bd3-bd72-a67b355a115d.png)
 ![Screenshot 2023-03-22 100633](https://user-images.githubusercontent.com/45715246/226929709-2ee5b546-bcfc-4be6-b504-bc84f607d450.png)
 
 
